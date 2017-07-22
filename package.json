@@ -1,0 +1,19 @@
+{
+  "name": "slackpredict",
+  "version": "1.0.0",
+  "description": "A slack plugin to run prediction markets on your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icehawk78/SlackPredict.git"
+  },
+  "author": "Nicholas Galauxy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Icehawk78/SlackPredict/issues"
+  },
+  "homepage": "https://github.com/Icehawk78/SlackPredict#readme"
+}
