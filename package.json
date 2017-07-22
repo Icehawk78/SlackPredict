@@ -10,6 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/Icehawk78/SlackPredict.git"
   },
+  "devDependencies": {
+    "angular-mocks": "1.4.2",
+    "jasmine": "^2.6.0",
+    "jasmine-core": "^2.6.4",
+    "jasmine-jquery": "^2.1.1",
+    "karma": "^1.7.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-mocha-reporter": "^2.2.3",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": ""
+  },
   "author": "Nicholas Galauxy",
   "license": "MIT",
   "bugs": {
